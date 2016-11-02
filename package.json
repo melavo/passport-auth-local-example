@@ -1,6 +1,6 @@
 {
   "name": "passport-auth-local-example",
-  "version": "0.0.0",
+  "version": "1.1.0",
   "description": "Express 4.x app using Passport for authentication with username and password.",
   "keywords": [
     "example",
